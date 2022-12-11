@@ -21,3 +21,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oteosuk)](https://solved.ac//oteosuk)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaeDongWoo&count_bg=%23CCCCFF&title_bg=%23CCCCFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+## 🖤 MY BLOG
+
+티스토리 블로그 : [코딩수용소](https://oteosuk.tistory.com/)
