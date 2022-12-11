@@ -2,8 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oteosuk)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/C++-CCCCFF?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-CCCCFF?style=flat-square&logo=CSharp#%2B%2B&logoColor=white"/>
