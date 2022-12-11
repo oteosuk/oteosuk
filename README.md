@@ -24,4 +24,4 @@
 
 ## 🖤 MY BLOG
 
-티스토리 블로그 : [코딩수용소](https://oteosuk.tistory.com/)
+Tistory Blog : [코딩수용소](https://oteosuk.tistory.com/)
