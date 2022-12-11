@@ -1,5 +1,5 @@
 I'm a student of Dankook University (4th grade)<br>
-I'm interested in Game Develop
+I'm interested in Game Develop👍
 
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=oteosuk)](https://solved.ac/ashpurple)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foteosuk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
