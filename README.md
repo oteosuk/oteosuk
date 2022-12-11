@@ -20,4 +20,4 @@ Tistory Blog : [코딩수용소](https://oteosuk.tistory.com/)
 
 ### 🧡 활동
 
-2022/12 : 단국대학교 Echo Project 공모전 우수상 수상
+2022/12 : 단국대학교 Echo Project 공모전 우수상 수상 [게임제작]
