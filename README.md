@@ -1,13 +1,9 @@
 ### 💪 Skills
-#### Languages
+#### Languages & Platform
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-CCCCFF?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-CCCCFF?style=flat-square&logo=CSharp#%2B%2B&logoColor=white"/>
-</p>
-
-#### Platform
-<p>
   <img src="https://img.shields.io/badge/Unity-F7DF1E?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
 
