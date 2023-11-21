@@ -1,6 +1,7 @@
 I'm a student of Dankook University (4th grade)<br>
 I'm interested in Game Develop👍
 
+### 💻 BOJ 
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=oteosuk)](https://solved.ac/ashpurple)
 
 ### 💪 Languages & Platform
@@ -22,7 +23,7 @@ I'm interested in Game Develop👍
 
 Tistory Blog : [코딩수용소](https://oteosuk.tistory.com/)
 
-### 🧡 활동
+### 🧡 Acitivity
 
 2022.7 ~ 2022.12 : 단국대학교 Echo Project 공모전 우수상 수상 [게임제작]<br>
 2023.11 ~ 2024.3 : 스파르타 내일배움캠프 Unity 2기
