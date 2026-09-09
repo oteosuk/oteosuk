@@ -14,9 +14,6 @@ I'm interested in Game Develop👍
 </p>
 
 ### 🔨 Tools
-<p>  
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-</p>
 
 ### 🖤 My blog
 
@@ -26,3 +23,4 @@ Tistory Blog : [코딩수용소](https://oteosuk.tistory.com/)
 
 2022.7 ~ 2022.12 : 단국대학교 Echo Project 공모전 우수상 수상 [게임제작]<br>
 2023.11 ~ 2024.3 : 스파르타 내일배움캠프 Unity 2기
+2026.09 ~ 2026.10 : 스파르타 게임서버개발 단기심화 9기
